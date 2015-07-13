@@ -1,0 +1,1 @@
+IMAP NOTIFY Plug-in=1.0.0,https://github.com/clehner/sylpheed-imap-notify/
