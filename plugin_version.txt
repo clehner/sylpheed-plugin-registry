@@ -1,1 +1,2 @@
 IMAP NOTIFY Plug-in=1.0.0,https://github.com/clehner/sylpheed-imap-notify/
+Sylpheed Plug-in Registry=0.1.0,http://localhost/
